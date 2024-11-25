@@ -1,4 +1,4 @@
-Lo modulos en esta carpeta son
+Lo modulos en esta carpeta son todas las actiividades de cada modulo:
 
 Big Data
 
